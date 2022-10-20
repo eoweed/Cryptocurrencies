@@ -6,14 +6,17 @@
 
 ### Results:
 ###### The results are visualized using plotly express and hvplot. 
+#
 ![3DGraph](https://github.com/eoweed/Cryptocurrencies/blob/main/Images/3D_Graph.png)
 ###### The 3D graph shows the cryptocurrencies separated into four classes and plotted along the dimensions created in the Principle Component Analysis. 
+#
 ![ScatterPlot](https://github.com/eoweed/Cryptocurrencies/blob/main/Images/Scatterplot.png)
 ###### The scatter plot also shows the cryptocurrencies separated by class and plotted based on Total Coin Supply and Total Coins Mined. 
+#
 ![CryptocurrencyTable](https://github.com/eoweed/Cryptocurrencies/blob/main/Images/Table.png)
 ###### A table shows the cryptocurrencies that are available to be traded and have a Total Coin Supply greater than zero.
 
-
+#
 
 ### Software:
 ###### Python 3.7.13
